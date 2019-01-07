@@ -1,0 +1,4 @@
+readme
+parsed/*.json
+*.xml
+*.txt
