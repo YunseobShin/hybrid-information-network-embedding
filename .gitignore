@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 readme
 parsed/*.json
 *.xml
 *.txt
+=======
+readme
+*.json
+*.xml
+*.txt
+>>>>>>> b58afb0e3b7fcd1c27fbd1b7541ed5df037ae7f6
